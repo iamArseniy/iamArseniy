@@ -46,7 +46,7 @@ Backend developer
   <a href="https://t.me/barrusshaa" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:a.arseniy.b@yandex.ru">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
 
