@@ -1,8 +1,11 @@
 ## H¡! I am Arseniy & You are on iamArseniy`s page
-Backend developer
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
+Backend-разработчик, активно развиваюсь в Go и системном программировании.
+
+Интересуюсь backend-разработкой, микросервисами, сетевыми технологиями и проектированием надёжных сервисов.
 
 ### 🛠️ concepts
 
@@ -32,10 +35,10 @@ Backend developer
 ### 📫 text me
 
 <p align="left">
-  <a href="https://t.me/barrusshaa" target="_blank">
+  <a href="https://t.me/baranovarseniii" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
-  <a href="mailto:a.arseniy.b@yandex.ru">
+  <a href="mailto:baranovarseniii@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
 
